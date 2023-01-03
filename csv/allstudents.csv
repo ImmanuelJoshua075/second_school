@@ -1,0 +1,5 @@
+ID,FirstName,LastName,Classid,Dob,Fathername,Mothername,Address1,Address2,City,State,PinCode,Createdat
+1,msd,dhoni,12,Mon Jan 20 2020 00:00:00 GMT+0530 (India Standard Time),appa,amma,mumbai,chennai,chennai,tamilnadu,600002,Fri May 20 2005 22:00:00 GMT+0530 (India Standard Time)
+3,mahi,dhoni,XII A,Mon Jan 20 2020 00:00:00 GMT+0530 (India Standard Time),appa,amma,mumbai,chennai,chennai,tamilnadu,600002,Fri May 20 2005 22:00:00 GMT+0530 (India Standard Time)
+4,virat,k,XII A,Mon Jan 20 2020 00:00:00 GMT+0530 (India Standard Time),dad,mom,mumbai,chennai,chennai,tamilnadu,600002,Fri May 20 2005 22:00:00 GMT+0530 (India Standard Time)
+5,jiji,a,XII B,Tue Feb 15 2005 00:00:00 GMT+0530 (India Standard Time),jojop,mska,chennai,chennai,chennai,tamilnadu,627861,Tue Dec 27 2022 12:11:40 GMT+0530 (India Standard Time)
